@@ -11,7 +11,6 @@ The dashboard enables business users to monitor key performance indicators, iden
 ## Tools Used
 
 * Power BI
-* SQL
 * Microsoft Excel
 * DAX
 * Data Modeling
