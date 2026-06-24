@@ -84,19 +84,5 @@ Visualizations:
 
 ---
 
-## Repository Contents
 
-* Business_Insights.pbix
-* Superstore Dataset.xlsx
-* Dashboard_Report.pdf
-* README.md
 
----
-
-## Project Author
-
-Prajwal N
-
-LinkedIn: https://www.linkedin.com/in/prajwal-n-410095317
-
-GitHub: https://github.com/PrajwalN2305
